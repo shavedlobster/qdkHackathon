@@ -4,4 +4,4 @@
 - Bryant Har
 - Saul Puentes
 - Julia Martins
-- ...
+- Jade Glass
